@@ -23,3 +23,7 @@ More gets added over time. This is just the start.
 - **Meet up if you want.** If there's interest, we'll set up a call. Totally optional.
 
 Run by Dylan, Marco & Livia
+
+---
+
+> Note: This repo was previously named **Welcome-Instructions**. It was renamed to **start-here** to make the entry point easier to find. GitHub automatically redirects the old links, so anything pointing to the old name should still work.
